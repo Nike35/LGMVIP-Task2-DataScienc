@@ -1,2 +1,2 @@
-# LGMVIP-Task2-DataScienc
+# LGMVIP-Task2-DataScience
 Decision Making Tree
